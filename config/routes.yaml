@@ -1,0 +1,14 @@
+#index:
+#    path: /
+#    controller: App\Controller\DefaultController::index
+home:
+  path: /
+  controller: App\Controller\SecurityController::home
+
+
+
+#index:
+#    path: /
+#    controller: App\Controller\DefaultController::index
+logout:
+  path: /deconnexion
